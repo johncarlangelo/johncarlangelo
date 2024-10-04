@@ -1,9 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on Tutor-Student Matcher Web App
-👯 I’m looking to collaborate on Machine Learning
-🤝 I’m looking for help with Machine Learning
-🌱 I’m currently learning Python
-⚡ Fun fact I started coding with HTML
+🔭 I’m currently working on Tutor-Student Matcher Web App<br>
+👯 I’m looking to collaborate on Machine Learning<br>
+🤝 I’m looking for help with Machine Learning<br>
+🌱 I’m currently learning Python<br>
+⚡ Fun fact I started coding with HTML<br>
 
 
 ## 🌐 Socials:
