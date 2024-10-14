@@ -3,7 +3,7 @@
 👯 I’m looking to collaborate on Machine Learning<br>
 🤝 I’m looking for help with Machine Learning<br>
 🌱 I’m currently learning Python<br>
-⚡ Fun fact I started coding with HTML and CSS<br>
+⚡ Fun fact I started coding with HTML & CSS<br>
 
 
 ## 🌐 Socials:
