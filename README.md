@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Tutor-Student Matcher Web App<br>
+🔭 I’m currently working on Personal Projects<br>
 👯 I’m looking to collaborate on Machine Learning<br>
 🤝 I’m looking for help with Machine Learning<br>
 🌱 I’m currently learning Python<br>
