@@ -6,9 +6,9 @@
 ⚡ Fun fact I started coding with HTML & CSS<br>
 
 ## 💡 Upcoming Projects
-🔄 Website that converts files, image file types, videos etc.
-📂 Portfolio Website
-🤖 Personalized AI (for personal use)
+🔄 Website that converts files, image file types, videos etc.<br>
+📂 Portfolio Website<br>
+🤖 Personalized AI (for personal use)<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jca_jca_jca_jca) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Shirakamii) 
