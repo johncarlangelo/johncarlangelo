@@ -9,6 +9,7 @@
 🔄 Website that converts files, image file types, videos etc.<br>
 📂 Portfolio Website<br>
 🤖 Personalized AI (for personal use)<br>
+🎮 Papers, Please type of game.<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jca_jca_jca_jca) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Shirakamii) 
