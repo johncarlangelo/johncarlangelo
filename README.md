@@ -42,6 +42,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
 </div>
+
 # 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=johncarlangelo&theme=tokyonight&hide_border=false"/>
