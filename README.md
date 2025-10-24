@@ -8,7 +8,7 @@
 ## 💡 Upcoming Projects
 🔄 Website that converts files, image file types, videos etc.<br>
 📂 Portfolio Website<br>
-🤖 Personalized AI (for personal use)<br>
+🔗 Offline Bookmark Manager<br>
 🎮 Papers, Please type of game.<br>
 
 
