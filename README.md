@@ -1,9 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Personal Projects<br>
-👯 I’m looking to collaborate on Machine Learning<br>
-🤝 I’m looking for help with Machine Learning<br>
-🌱 I’m currently learning Python<br>
-⚡ Fun fact I started coding with HTML & CSS<br>
+🏢 I’m currently working as an AI Integrated Web Developer Intern at The Back Room Offshoring Inc.<br>
 
 ## 💡 Upcoming Projects
 🔄 Website that converts files, image file types, videos etc.<br>
