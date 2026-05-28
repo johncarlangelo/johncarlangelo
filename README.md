@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏢 I’m currently working as an AI Integrated Web Developer Intern at The Back Room Offshoring Inc.<br>
+🏢 I’m currently looking for a Junior Web Developer work/Project Based work.<br>
 
 ## 💡 Upcoming Projects
 🔄 Website that converts files, image file types, videos etc.<br>
