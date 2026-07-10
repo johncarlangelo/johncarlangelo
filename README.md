@@ -2,8 +2,7 @@
 🏢 I’m currently looking for a Junior Web Developer work/Project Based work.<br>
 
 ## 💡 Upcoming Projects
-🔄 Website that converts files, image file types, videos etc.<br>
-📂 Portfolio Website<br>
+🔄 Website that converts files, image file types, videos etc. (Hermanos Forge)<br>
 🔗 Offline Bookmark Manager<br>
 🎮 Papers, Please type of game.<br>
 
