@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e2327,100:6a4c93&height=200&section=header&text=Shirakami%20%2F%20johncarlangelo&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20the%20Hermanos%20Suite,%20one%20offline-first%20app%20at%20a%20time&descAlignY=55&descSize=16"/>
 
 <a href="https://jca-dev-hrmns.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+%2F+AI+Engineer+in+the+making;BSCS+Magna+Cum+Laude+%F0%9F%8E%93;Founder+%40+Hermanos+Co.;Currently+forging+Hermanos+Forge+%F0%9F%94%A5;For+Hermanos.+By+Hermanos.&font=Fira%20Code&center=true&width=500&height=45&duration=3000&pause=800&color=A78BFA&vCenter=true&size=22"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+%2F+AI+Engineer+in+the+making;BSCS+Magna+Cum+Laude+%F0%9F%8E%93;Currently+forging+Hermanos+Forge+%F0%9F%94%A5;For+Hermanos.+By+Hermanos.&font=Fira%20Code&center=true&width=500&height=45&duration=3000&pause=800&color=A78BFA&vCenter=true&size=22"/>
 </a>
 
 <br/>
@@ -22,7 +22,6 @@
 name: John Carl Angelo
 alias: Shirakami
 based_in: Philippines 🇵🇭
-studio: Hermanos Co.
 status: 🎯 focusing — open to Junior Web Dev / project-based work
 motto: "For Hermanos. By Hermanos."
 ```
