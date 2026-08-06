@@ -46,12 +46,7 @@ I build small, offline-first tools for myself. I did an internship as an AI-inte
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=johncarlangelo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=6A4C93&text_color=c9d1d9"/>
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=johncarlangelo&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=6A4C93&currStreakLabel=A78BFA"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johncarlangelo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9&langs_count=10"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=johncarlangelo&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"/>
 
 </div>
 
