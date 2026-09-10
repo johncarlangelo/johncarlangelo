@@ -22,7 +22,7 @@
 name: John Carl Angelo
 alias: Shirakami
 based_in: Philippines 🇵🇭
-status: 🎯 focusing — open to Junior Web Dev / project-based work
+status: 🎯 focusing — Currently working as Technical Support Engineer @ Supy / project-based work
 motto: "For Hermanos. By Hermanos."
 ```
 
