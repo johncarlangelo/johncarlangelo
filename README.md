@@ -39,6 +39,7 @@ I build small, offline-first tools for myself. I did an internship as an AI-inte
 | 🎮 **Hermanos Override** | Game trainer launcher (Electron + React), a personal WeMod alternative | ✅ Scaffolded |
 | 🗂️ **Kayabé** | Solo-built Jira/Trello-style project management platform (Next.js + NestJS monorepo) | 🚧 In progress |
 | 🍽️ **[SmartBite](https://github.com/johncarlangelo/SmartBite)** | Computer vision app — snap a dish, get ingredients, nutrition & a recipe | ✅ Shipped |
+| 🛠️ **[Hermanos Stash](https://github.com/johncarlangelo/Hermanos-Stash)** | General Purpose Multi Tool | 🚧 In progress |
 
 <br/>
 
